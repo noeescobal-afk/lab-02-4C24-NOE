@@ -1,2 +1,4 @@
 # lab-02-4C24-NOE
-Aqui haremos nuestro proyecto de semana 2
+# lab-02-4C24-NOE
+Descripción breve del proyecto
+Modificado desde el clon colaborativo
